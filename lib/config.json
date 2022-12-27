@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
+  "namebot": "arybotz",
+  "botNumber": "994408465157@s.whatsapp.net",
+  "owner": ["994408465157@s.whatsapp.net"],
+  "instagram": "https://instagram.com/aryjuanda",
+  "author": "arykontol",
+  "session": "senku-md",
+  "email": "arygamzbotz@gmail.com",
+  "self": false,
+  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "packInfo":{
+    "packname": "AH AH EMUT DONG YANK",
+    "author": "ARY GANZ ✓"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
